@@ -49,10 +49,7 @@ Windows: install **Python** & **Git for Windows**.
 $ git clone https://github.com/xatusbetazx17/ArtificialPulmoAug.git
 $ cd ArtificialPulmoAug
 
-# 3‑2  Copy the scaffold files (this README, code, etc.) here
-#      – from ChatGPT canvas export –
-
-# 3‑3  Create a Python virtual environment
+# 3‑2  Create a Python virtual environment
 $ python -m venv venv && source venv/bin/activate  # Windows: venv\Scripts\activate
 
 # 3‑4  Install dependencies
